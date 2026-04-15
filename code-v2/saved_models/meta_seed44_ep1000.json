@@ -1,0 +1,16 @@
+{
+  "seed": 44,
+  "episodes": 1000,
+  "rollout_length": 256,
+  "state_dim": 36,
+  "action_dim": 6,
+  "actor_output_dim": 54,
+  "final_metrics": {
+    "episode_reward": 735.8249081054371,
+    "critic_loss": 0.11217946745455265,
+    "actor_loss": 0.7069822549819946,
+    "entropy": 0.8704412579536438,
+    "throughput": 3.89453125,
+    "collision_rate": 0.5652126736111112
+  }
+}
